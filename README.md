@@ -1,16 +1,23 @@
-## Hi there 👋
+## Olá, eu sou o Vini! 👋
 
-<!--
-**Vini01-dev/Vini01-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Sobre Mim e a Minha Jornada
 
-Here are some ideas to get you started:
+* 🎓 Eu sou **estudante de Análise e Desenvolvimento de Sistemas**, focado em adquirir conhecimento prático para transformar ideias em soluções tecnológicas.
+* 🔭 Eu estou atualmente trabalhando na construção de um portfólio de **projetos acadêmicos** e me aprofundando em **[Sua Área de Foco no curso, ex: Lógica de Programação, Desenvolvimento Full-stack, Análise de Dados]**.
+* 🌱 Eu estou atualmente aprendendo e me aprofundando em **[Tecnologia/Linguagem Específica, ex: Estrutura de Dados, Java, Cloud Computing]** e **metodologias ágeis** como Scrum.
+* 👯 Eu estou procurando colaborar em **projetos práticos de desenvolvimento** para aplicar o conhecimento adquirido e ganhar experiência.
+* 🤔 Eu estou buscando ajuda com **[Tópico em que você tem mais dificuldade ou interesse, ex: Banco de Dados NoSQL, Testes Automatizados]**.
+* 💬 Pergunte-me sobre **[Sua Linguagem Favorita ou Tópico de Interesse, ex: JavaScript, UX/UI]** ou sobre a minha rotina como estudante.
+* 📫 Como me contatar: Você pode me encontrar no **[Link do LinkedIn/Email]** para trocar ideias e oportunidades.
+* 😄 Pronomes: **ele/dele**.
+* ⚡ Curiosidade: Eu adoro **[Hobby ou Fato Interessante, ex: ler sobre a história da computação]** e isso me ajuda a manter a mente afiada para os desafios do curso.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Conhecimentos em Construção
+
+| Categoria | Habilidades (Que você já aprendeu ou está aprendendo) |
+| :--- | :--- |
+| **Linguagens** | Lógica de Programação, Python, SQL, [Outra Linguagem] |
+| **Conceitos** | Análise Orientada a Objetos, Design de Sistemas, Engenharia de Requisitos |
+| **Ferramentas** | Git, IDEs, [Nome de uma Ferramenta Específica que usa] |
